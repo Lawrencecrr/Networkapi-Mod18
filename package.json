@@ -1,0 +1,23 @@
+{
+  "name": "networkapi-mod18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawrencecrr/Networkapi-Mod18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawrencecrr/Networkapi-Mod18/issues"
+  },
+  "homepage": "https://github.com/Lawrencecrr/Networkapi-Mod18#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.5"
+  }
+}
